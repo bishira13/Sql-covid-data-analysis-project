@@ -1,3 +1,3 @@
 # Sql-data-analysis-project
 
-sql covid-19 data exploration project
+Covid 19 Data Exploration project exploring the trends of total cases and covid deaths
