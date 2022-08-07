@@ -142,6 +142,8 @@ FROM PercentPopulationVaccinated
 --DROP TABLE #PercentPopulationVaccinated;
 
 
+
+
 /*
 Queries used for Tableau Project
 */
@@ -203,18 +205,7 @@ order by PercentPopulationInfected desc
 
 
 
-
-
-
-
-
-
-
-
-
--- Queries I originally had, but excluded some because it created too long of video
--- Here only in case you want to check them out
-
+-- extra Queries
 
 -- 1.
 
